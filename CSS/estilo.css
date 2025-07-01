@@ -9,7 +9,7 @@ body {
 .container {
   border-radius: 20px;
   background-color: #ffffff;
-  height: 95vh;
+  height: 100%;
 }
 
 /* Estilização da navbar. Organização da lista de links, alinhamento, cor e tamanho dos elementos. */
